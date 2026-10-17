@@ -1,4 +1,5 @@
 <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/a0b7c6ba-bfca-45ac-9f6f-c7dbbda78d44" />
+
 # Checkpoints
 
 been thinking about a problem I keep running into with coding agents 
